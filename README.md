@@ -1,4 +1,5 @@
 # E-Commerce-Analytics
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-commerce%20Analytics%20img.png?raw=true)
 
 ## **Project Overview**
 
@@ -32,7 +33,6 @@ Looking at sales alone does not explain:
 
 The dashboard brings these areas together to provide a more complete view of **commercial performance, customer experience, and operational demand fulfillment**.
 
-
 ## **Business Questions Answered**
 
 ### Customer & Sales
@@ -42,6 +42,8 @@ The dashboard brings these areas together to provide a more complete view of **c
 4. Which customer segments contribute the most?
 5. Which acquisition channels bring in the most customers?
 6. Which product categories and subcategories have the highest customer reach?
+
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-com_pg_1.png?raw=true)
 
 ### Customer Experience
 7. Are orders being delivered within the promised timeframe?
@@ -53,6 +55,9 @@ The dashboard brings these areas together to provide a more complete view of **c
 13. How do return rates differ across fulfillment models?
 14. How does contribution margin vary across customer cohorts?
 
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-com_pg_2.png?raw=true
+)
+
 ### Demand & Availability
 15. How much product is being ordered versus fulfilled?
 16. What proportion of demand remains unfulfilled?
@@ -62,6 +67,8 @@ The dashboard brings these areas together to provide a more complete view of **c
 20. Which stock availability states contribute to unfulfilled quantities?
 21. Which categories have the highest unfulfilled demand?
 22. How do fulfillment models compare in delivery time, on-time performance, and return rate?
+
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-com_pg_3.png?raw=true)
 
 ## **Tools & Methodology**
 
@@ -76,7 +83,7 @@ The dashboard brings these areas together to provide a more complete view of **c
 ### Methodology
 The report incorporates **time-based analysis, cohort analysis, segmentation, and category-level comparisons** to identify patterns beyond headline KPIs.
 
-
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-commerce%20Analytics%20model.png?raw=true)
 
 ##  **Key Insights**
 
@@ -88,7 +95,7 @@ The report incorporates **time-based analysis, cohort analysis, segmentation, an
 - **Backorder/Unavailable inventory accounts for the largest share of unfulfilled demand**, indicating a need for stronger inventory availability management.
 - **Fulfillment models perform differently across delivery speed, on-time delivery, and return rates**, showing that operational performance should be assessed using multiple service metrics.
 
----
+
 
 ##  **Business Recommendations**
 
@@ -99,16 +106,11 @@ The report incorporates **time-based analysis, cohort analysis, segmentation, an
 - **Evaluate fulfillment models using multiple performance indicators**, including delivery time, on-time delivery, and return rate.
 - **Assess acquisition channels based on customer value, not just customer volume**, by connecting acquisition sources to revenue, contribution, repeat purchases, and retention.
 
-## 📁 Project Files
+![](https://github.com/AbigailAdeleye/E-Commerce-Analytics/blob/main/E-commerce_full_report.png?raw=true)
 
-- `E-Commerce Analytics.pbix` – Power BI report
-- `E-Commerce Analytics.pdf` – Dashboard export
-- `README.md` – Project documentation
 
----
-
-## 👩🏽‍💻 Author
+## Author
 
 **Abigail Adeleye**
 
-Data & Business Intelligence Analyst | Power BI | SQL | Data Analytics
+Data & Business Intelligence Analyst | Power BI | SQL | Excel
