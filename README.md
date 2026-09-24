@@ -95,7 +95,7 @@ The report incorporates **time-based analysis, cohort analysis, segmentation, an
 - **Backorder/Unavailable inventory accounts for the largest share of unfulfilled demand**, indicating a need for stronger inventory availability management.
 - **Fulfillment models perform differently across delivery speed, on-time delivery, and return rates**, showing that operational performance should be assessed using multiple service metrics.
 
-
+interact with the report here - https://app.powerbi.com/view?r=eyJrIjoiN2RjMWVjYjktNTYwMC00ZjczLTk2YWUtOGYzNjI1MDE0YTYzIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 ##  **Business Recommendations**
 
